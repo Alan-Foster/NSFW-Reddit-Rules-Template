@@ -7,4 +7,5 @@ Many NSFW communities have rules that fail to encompass all rule violations, or 
 ## How do I use this template?
 Click the link above to view all of the template rules available. Copy and Paste the rules on your subreddit rule page found at https://www.reddit.com/r/SUBREDDIT/about/rules under the Moderation section of the Mod Tools page. Some rules require you to make a choice based on the way you manage your community, which are marked inside ///// sectionals \\\\\\\ to make it easy to see.
 
-Rule violation responses are listed and can be customized. Most rules have 3 warnings before a perm ban. Some rules, such as Rule 1 - 18+ Age of Consent, have an immediate Ban for breaking the rule.
+Rule violation responses are listed and can be customized. Most rules have 3 warnings before a perm ban. 
+Some rules, such as Rule 1 - 18+ Age of Consent, have an immediate Ban for breaking the rule.
