@@ -3,3 +3,6 @@ A template that NSFW subreddits can use to establish high quality, comprehensive
 
 ## Why was this created?
 Many NSFW communities have rules that fail to encompass all rule violations, or are inconsistent across communities. This rule list is designed to be a master template by which the NSFW subreddits can standardize how violations are enforced.
+
+## How do I use this template?
+Click the link above to view all of the template rules available. Copy and Paste the rules on your subreddit rule page found at https://www.reddit.com/r/SUBREDDIT/about/rules under the Moderation section of the Mod Tools page. Some rules require you to make a choice based on the way you manage your community, which are marked inside ///// sectionals ///// to make it easy to see.
