@@ -6,6 +6,7 @@ Rule violation responses are listed and can be customized. Most rules have 4 war
 Some rules, such as Rule 1, have an immediate Ban for serious rule violations.
 
 
+
 1
 18+ Age of Consent
 - Content must be of individuals 18+ years old. 
@@ -14,19 +15,22 @@ Some rules, such as Rule 1, have an immediate Ban for serious rule violations.
   1. Temporary or Permanent Ban
 
 
+
 2
 Be Cool, Calm, and Civil
 - Follow Reddiquette and the Reddit Content Policy. 
 - Treat everyone with respect. 
+- Help build a positive and constructive community.
+- Provide constructive criticism instead of complaining.
 - Do not advocate for harassment, harm, or hate.
 - Do not discriminate against anyone.
-- Do not use ALL CAPS in posts or comments.
+- Report rule violations as you see them. Do not respond in the comments.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
+
 
 
 3
@@ -34,57 +38,89 @@ Post Formatting and English Only
 - This is an English-only subreddit. 
 - Use short and accurate post titles. 
 - Use the correct post flair. 
+- Do not use ALL CAPS or CrAzY cAsE.
+- Do not include #hashtags, special characters, or emojis in post titles.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
+
 
 
 4
-Spam, Relevance, and Banned Content
-- Post high-quality, NSFW content only. 
-- Keep content relevant to ///// SELECT YOUR TOPICS - include restrictions on hardcore vs softcore, post topics, OC only, gender, ethnicity, image theme, format such as video or gif, etc \\\\\. 
-- Do not post ///// Content not allowed, examples above \\\\\
-- Content that is violent, gory, or otherwise illegal is strictly prohibited (incest, bestiality, rape, or child pornography). 
-- Low-value / off-topic posts and comments may be removed at any moderator's discretion.
+Post ///// Content Allowed \\\\\
+- Keep content relevant to ///// OC only, theme, format (video/gif), etc \\\\\. 
+- Content that is NSFW must be marked with a spoiler.
+- Low-value / off-topic content may be removed at any moderator's discretion.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
+
 5
+No Spam or Off-Topic Content
+- Do not post ///// Banned Content \\\\\
+- Low-value / off-topic content may be removed at any moderator's discretion.
+- Punishment for breaking this rule:
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
+
+
+
+6
+No Disruptive or Disturbing Content
+- Do not post content that could be triggering or distressing to others.
+- When possible, warn users if content may be considered disturbing.
+- Do not post content that may trigger epilepsy or trauma responses.
+- This includes graphic images, detailed descriptions of violence, or other sensitive material.
+- Content that is violent, pornographic, or illegal is strictly prohibited.
+- Punishment for breaking this rule:
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
+
+
+
+7
 No Text in Images
-- Images should not contain text, other than watermarks for ownership protection. 
+- Images should not contain text other than watermarks for ownership protection. 
 - Do not post content with filters, add-ons, or watermarks other than with your own Reddit username.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
-6
-Personal Information
-- Do not post or solicit any personal information of the users who post, those in the content, or others.
+
+8
+No Personal Information
+- Respect the privacy of all users.
+- Do not post or solicit any personal information.
 - This includes names, addresses, phone numbers, contact information, real-world locations, and social media profiles.
+- Punishment for breaking this rule:
+  1. Permanent Ban
+
 ///// OR \\\\\
-- Posting the identities of individuals is ///// ALLOWED / REQUIRED \\\\\ in this community, but users may not share private contact information. 
-- Private information includes addresses, phone numbers, real-world locations, or anything that can be used to track their location unless they have publicly announced that information themselves (such as attending a public event, etc).
+
+- Posting the identities of individuals is ///// ALLOWED / REQUIRED \\\\\ in this community. 
+- Do not share addresses, phone numbers, or real-world locations unless they have publicly announced that info (such as attending a public event, etc).
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
-7
+
+9
 Content Verification and Impersonation
 - All content creators must be verified through the subreddit's verification process. 
 - Unverified content will be removed and repeat offenders will be banned.
@@ -94,27 +130,27 @@ Content Verification and Impersonation
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
-8
-Advertise Up To 2 Posts Daily
-- The post creator can share 1 link in the comments of their post, a maximum of 2 per day. 
-- No advertising directly in post titles or images. 
-- Obfuscated links such as bit.ly links are not allowed.
-- Do not request donations or link to payment processors. 
-- Do not offer to buy or sell any items or services.
+
+10
+No Shortened or Obfuscated Links
+- Markdown-formatted links are allowed, but clear links are better.
+- If possible, remove extra modifying #tags or referral data.
+- Do not use obfuscated links such as Google or AmpProject.
+- Link shorteners such as bit.ly are not allowed.
+- Do not link to shock sites or other misleading content.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
-9
+
+11
 No Encouraging Rule Violations or Illegal Activities
 - Do not encourage others to break the rules (subreddit, site-wide, or real-world laws, including other countries) or act in ways that may jeopardize one's safety. 
 - Do not create posts to discuss moderator actions against a specific user. Discussions of the community rules ///// IS / IS NOT \\\\\ allowed.
@@ -126,38 +162,108 @@ No Encouraging Rule Violations or Illegal Activities
 - Serious rule violations may result in an immediate ban.
 
 
-10
-No Reposts or Karma Farming
-- Content already posted within the past 14 days, or any of the top 50 all-time posts, will be considered a repost and removed.
+11
+No Advertising Products, Services or Fundraisers
+- Your account history should not be more than 25% advertising.
+- No advertising at all in post titles, comments, or images. 
+- Do not request donations or link to payment processors. 
+- Do not offer to buy or sell any items or services.
+- Punishment for breaking this rule:
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
+
+///// OR \\\\\
+
+Advertise Up To 2 Posts Daily
+
+- The post creator can share 1 link in the comments of their own post only.
+- You may advertise in a maximum of 2 comments per 24 hours. 
+- No advertising directly in post titles or images. 
+- Do not request donations or link to payment processors. 
+- Do not offer to buy or sell any items or services.
+- Punishment for breaking this rule:
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
+
+
+
+12
+No Reposts, Excessive Cross-Posts, or Karma Farming
+- Do not excessively cross-post the same content across multiple (5+) subreddits in 24 hours.
+- Content reposted again within 14 days may be removed.
+- Link Posts with the same URL within the past 90 days will be removed.
 - Do not ask for karma upvotes - vote manipulation also violates Reddit site-wide rules.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
-11
-Involuntary Pornography, Copyright, and Takedowns
-- Do not post images or videos without the consent of the people involved. 
-- You must have full permission to post content as the copyright holder, or written permission from the copyright holder to post on their behalf. 
-- Takedown requests will be honored by any individuals found within the content, even if they do not own the copyright directly. 
-- To request a takedown under this rule, contact the moderators using ModMail.
+
+13
+No Encouraging Rule Violations, Dangerous or Illegal Activities
+- Do not encourage other users to:
+  1. Break Reddit rules (subreddit or site-wide).
+  2. Break real-world rules (other platforms or real-world laws, including other countries).
+  3. Jeopardize their safety or the safety of others. 
 - Punishment for breaking this rule:
-  1. Permanent Ban
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
 
 
-12
-Polls and Community Surveys
-- Community members may only create community polls with moderator approval. 
+
+14
+Treat Moderators and Volunteers with Respect
+- Do not speak poorly of other moderators, administrators, or subreddits.
+- Do not discuss moderator actions taken against a specific user. 
+- Do not engage in public disputes over moderation decisions.
+- Discussions of community rules are allowed with mod approval.
+- Punishment for breaking this rule:
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
+
+
+
+15
+No Polls or Community Surveys
+- Community members may only create community polls or surveys with moderator approval. 
 - Include a null option to "Show Results" for those who only want to see the results. 
 - Data collected may not be used for targeted advertising.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
-  3. Three Month Ban
-  4. Permanent Ban
+  3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
 
 
+
+16
+Follow Specific Event or Activity Guidelines
+- Additional rules may apply during special events, contests, or activities.
+- Follow all rules and terms of service for other platforms and tools used during events.
+- Punishment for breaking this rule:
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
+
+
+
+17
+Involuntary Pornography, Copyright and Takedown Policy
+- Do not falsely claim that content is yours if it was created by someone else.
+- Do not post images, videos, or content without the consent of all involved. 
+- You must have full permission to post as the copyright holder or written permission from the copyright holder. 
+- Takedown requests will be honored by any individuals found within any content, even if they do not own the copyright. 
+- To request a takedown under this rule, contact the moderators using ModMail.
+- Punishment for breaking this rule:
+  1. Permanent Ban
